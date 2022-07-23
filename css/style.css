@@ -16,3 +16,6 @@ li.todos{
 .delete{
     cursor: pointer;
 }
+.flitered{
+    display: none !important;
+}
